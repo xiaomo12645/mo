@@ -22,8 +22,7 @@
 ◎〈拒绝按钮〉开〈/拒绝按钮〉
 ◎〈拒绝按钮文本〉点击加群〈/拒绝按钮文本〉
 ◎〈拒绝按钮颜色〉#e64a19〈/拒绝按钮颜色〉
-◎〈拒绝按钮事件〉http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=yMDZCc4Ah4g9doQTozs_lMbEVIkCJYAC&authKey=%2Bp2pyiGM3VzsxklvQIdsM501qq%2Fsh9QTbnxDPyKirdBe4JuYH5ocR9Tf9A5ZeiUu&noverify=0&group_code=855387757
-〈/拒绝按钮事件〉
+◎〈拒绝按钮事件〉http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=yMDZCc4Ah4g9doQTozs_lMbEVIkCJYAC&authKey=%2Bp2pyiGM3VzsxklvQIdsM501qq%2Fsh9QTbnxDPyKirdBe4JuYH5ocR9Tf9A5ZeiUu&noverify=0&group_code=855387757〈/拒绝按钮事件〉
 ◎〈中立按钮〉开〈/中立按钮〉
 ◎〈中立按钮文本〉客服QQ〈/中立按钮文本〉
 ◎〈中立按钮颜色〉#1565c0〈/中立按钮颜色〉
